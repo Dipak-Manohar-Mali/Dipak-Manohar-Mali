@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipak-manohar-mali&label=Profile%20views&color=0e75b6&style=flat" alt="dipak-manohar-mali" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Java,C,DSA**
 
