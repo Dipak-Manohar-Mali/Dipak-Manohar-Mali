@@ -1,3 +1,7 @@
+ ## 🏆 GitHub Trophies  
+  <img src="https://github-profile-trophy.vercel.app/?username=Dipak-Manohar-Mali&theme=onedark&no-frame=false&no-bg=false&margin-w=15&column=8" alt="GitHub Trophies"/>
+
+
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <h1 align="center">Hi 👋, I'm Dipak Mali</h1>
 <h3 align="center">A passionate Java developer from India.</h3>
